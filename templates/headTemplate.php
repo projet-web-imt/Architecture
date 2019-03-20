@@ -15,7 +15,7 @@
     color: #666;
   }
   h3, h4 {
-    margin: 10px 0 30px 0;
+    margin: 1% 0 2% 0;
     letter-spacing: 10px;
     font-size: 20px;
     color: #111;
@@ -30,16 +30,15 @@
     display: block;
     border-bottom: #CCC 5px solid;
     position: absolute;
-    left: 80px;
+    left: 0%;
     background: #2d2d30;
-    width: 30%;
-    z-index: 8;
-    padding: 20px;
+    width: 40%;
+    padding: 4%;
     opacity: 1;
     overflow: hidden;
     margin-left: 31%;
-    margin-top: 5%;
-    max-height: 50%;
+    margin-top: 4%;
+    max-height: 65%;
   }
 
   .container {
@@ -80,7 +79,7 @@
   footer {
     background-color: #2d2d30;
     color: #f5f5f5;
-    padding: 10px;
+    padding: 0.6%;
     right:0;
     width: 100%;
     position:absolute;
@@ -89,8 +88,8 @@
 
   table{
     color: #d5d5d5;
-    margin-left: 60px;
-    padding: 10px;
+    margin-left: 12%;
+    padding:10%;
   }
 
   .info{
@@ -102,10 +101,10 @@
     background-color: #DCDCDC;
     border: 0;
     color: #222;
-    margin: 2px;
+    margin: 2%;
     width: 100%;
-    margin-left: 20px;
-    margin-bottom: 5px;
+    margin-left: 18%;
+    margin-bottom: 3%;
 
   }
 
@@ -113,8 +112,8 @@
     background-color: #2d2d30;
     border: solid 1px;
     border-color: white;
-    margin-top: 30px;
-    margin-left: -80px;
+    margin-top: 20%;
+    margin-left: -40%;
     color:#DCDCDC;
   }
   .media{

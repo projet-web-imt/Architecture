@@ -4,7 +4,7 @@ if(isset($inscErrorText))
 echo '<span class="error">' . $inscErrorText . '</span>';
 ?>
 <form action="index.php" method="post" class="cadre">
-  <h3 style="margin-bottom:40px; color:#DCDCDC">INSCRIPTION</h3>
+  <h3 style="margin-bottom:12%; color:#DCDCDC">INSCRIPTION</h3>
 <table>
 <tr>
 <th>Login* :</th>
