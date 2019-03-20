@@ -14,9 +14,9 @@
       <th>Mot de passe* :</th>
       <td><input type="password" name="inscPassword"/></td>
     </tr>
-    <tr>
-    <th />
-      <td><input class="bouton" type="submit" value="Se connecter..." /></td>
-    </tr>
+
+
+
   </table>
+  <input class="bouton" type="submit" value="Se connecter..." />
 </form>

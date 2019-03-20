@@ -15,7 +15,7 @@
     color: #666;
   }
   h3, h4 {
-    margin: 1% 0 2% 0;
+    margin: -3% 0 0% 0;
     letter-spacing: 10px;
     font-size: 20px;
     color: #111;
@@ -25,22 +25,20 @@
     color: #222;
     font-size: 35px;
   }
-
   .cadre{
     display: block;
     border-bottom: #CCC 5px solid;
     position: absolute;
-    left: 0%;
+    left: 5%;
     background: #2d2d30;
-    width: 40%;
-    padding: 4%;
+    width: 30%;
+    padding: 4% 4% 2% 4% ;
     opacity: 1;
     overflow: hidden;
     margin-left: 31%;
     margin-top: 4%;
-    max-height: 65%;
+    max-height: auto;
   }
-
   .container {
     padding: 80px 120px;
   }
@@ -85,18 +83,14 @@
     position:absolute;
     bottom:0;
   }
-
   table{
     color: #d5d5d5;
-    margin-left: 12%;
+    margin-left: 8%;
     padding:10%;
   }
-
   .info{
     margin-left: 150px;
-
   }
-
   input{
     background-color: #DCDCDC;
     border: 0;
@@ -105,16 +99,16 @@
     width: 100%;
     margin-left: 18%;
     margin-bottom: 3%;
-
   }
-
   .bouton{
     background-color: #2d2d30;
     border: solid 1px;
     border-color: white;
-    margin-top: 20%;
-    margin-left: -40%;
+    margin-top: 12%;
+    margin-left: 0%;
     color:#DCDCDC;
+    width: auto;
+    padding: 2px 15px 2px 15px;
   }
   .media{
     display: inline-block;
